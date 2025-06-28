@@ -1,27 +1,5 @@
 [
   {
-    "eventName": "Market Research Workshop for Startup Founders & Tech Product Showcase",
-    "eventDescription": "A gathering of founders and startup folks from Chennai!",
-    "eventDate": "2025-06-28",
-    "eventTime": "09:00",
-    "eventVenue": "YuniQ, 4th Floor, TICEL BIOPARK, 5, CSIR Rd, Phase II, Tharamani, Chennai, Tamil Nadu 600113, India",
-    "eventLink": "https://allevents.in/chennai/market-research-workshop-for-startup-founders-and-tech-product-showcase-tickets/80002194804994?utm_source=Tamilnadu+Tech&utm_medium=website&utm_campaign=Tamilnadu+Tech&ref=utm-builder",
-    "location": "Chennai",
-    "communityName": "The Startup Club",
-    "communityLogo": "https://i.ibb.co/FbBkRHh6/The-Startup-Club.png"
-  },
-  {
-    "eventName": "GitHub Copilot Chennai Bootcamp",
-    "eventDescription": "The GitHub Copilot Global Bootcamp is a learning series designed to help developers fully leverage GitHub Copilot within Visual Studio Code, Visual Studio, and GitHub Codespaces while connecting with community experts like you! 😊",
-    "eventDate": "2025-06-28",
-    "eventTime": "10:00",
-    "eventVenue": "Microsoft Corporation India Pvt. Ltd, # 471, 2nd floor, Prestige Polygon, Anna Salai, Rathna Nagar Teynampet, Chennai - 600 018",
-    "eventLink": "https://www.meetup.com/technexus-community/events/307579615/",
-    "location": "Chennai",
-    "communityName": "TechNexus Community",
-    "communityLogo": "https://secure.meetupstatic.com/photos/event/5/2/7/5/clean_525381109.webp"
-  },
-  {
     "eventName": "TossConf'25",
     "eventDescription": "TOSSConf25 (Tamil Open Source Software Conference 2025) is a community-driven event celebrating open-source software and Tamil computing. Scheduled for July 18–19, 2025, at St. Joseph’s Institute of Technology in Semmancheri, Chennai, the conference aims to bring together developers, contributors, and enthusiasts to promote open source initiatives in Tamil Nadu.",
     "eventDate": "2025-07-18",
@@ -31,17 +9,6 @@
     "location": "Chennai",
     "communityName": "TossConf25",
     "communityLogo": "https://i.ibb.co/fWZCQww/hero-bg1.png"
-  },
-  {
-    "eventName": "A Coffee Talk At The HUB",
-    "eventDescription": "🚨 Calling all Java heads, code junkies & caffeine lovers! 🚨 It’s time to brew brilliance and stir up some tech magic!",
-    "eventDate": "2025-06-28",
-    "eventTime": "9:00",
-    "eventVenue": "Contentstack India Pvt. Ltd., 5th Floor, WorkEZ, Helix.21, Guru Nanak College Rd, above West side, Indira Gandhi Nagar, Velachery, Chennai, Tamil Nadu 600042",
-    "eventLink": "https://lu.ma/eapgdfxn?utm_source=tamilnadutech",
-    "location": "Chennai",
-    "communityName": "Code On JVM Chennai",
-    "communityLogo": "https://i.ibb.co/5xSndqPW/Code-On-Chennai-JVM.png"
   },
   {
     "eventName": "The Future is Now: SRE Powered by AI & Hyper-Automated Healing",
