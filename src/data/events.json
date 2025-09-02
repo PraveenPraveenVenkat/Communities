@@ -1,16 +1,5 @@
 [
   {
-    "eventName": "Build2Learn",
-    "eventDescription": "Welcome to build2learn - Where Innovation Meets Community! Imagine a hackathon, but with a twist!🤔 It's not just about building incredible micro products; it's about forging lifelong connections with like-minded individuals who share your passion for innovation! 🤝💡At build2learn, we believe that magic happens when engineers come together to do what they love - BUILD!, Are you someone with a side project that you've been dreaming of bringing to life? build2learn is your chance to turn that dream into reality! ⏰🌟 Are you a student eager to create something extraordinary but in need of mentors to guide you? build2learn is the launchpad you've been waiting for! 🎓🚀 Or maybe you're someone who thrives on helping others unleash their full potential? build2learn is the perfect platform to make a lasting impact! 🤗 Join us at build2learn and embark on a journey of creation, collaboration, and camaraderie! 🌟 See you there!🌆 ",
-    "eventDate": "2025-08-15",
-    "eventTime": "09:30",
-    "eventVenue": "Dot Com Infoway, Madurai",
-    "eventLink": "https://lu.ma/ajalu7xe?tk=Of86b2?utm_source=tamilnadutech",
-    "location": "Madurai",
-    "communityName": "Build2Learn",
-    "communityLogo": "https://build2learn.in/images/build2learn-logo.svg"
-  },
-  {
     "eventName": "CTOtalk Annual Summit 2025",
     "eventDescription": "CTOtalk Annual Summit 2025 is happening on October 25 at ITC Grand Chola, Chennai. Join 1000+ CTOs, CDOs, VPs, and engineering leaders from India's top tech companies as they share real-world AI strategies, challenges, and innovations. Expect deep-dive tech sessions, unfiltered peer insights, and a gathering of leaders building the future. Early bird registration closing soon!",
     "eventDate": "2025-10-25",
@@ -22,37 +11,15 @@
     "communityLogo": "https://ctotalk.in/hubfs/cto-talk-logo.svg"
   },
   {
-    "eventName": "D3 Community Meetup #4",
-    "eventDescription": "D3 Community Meetup #04: Join a vibrant in-person community for Software Engineers focused on Full Stack, DevOps, Cloud & AI. Learn, network, and grow!",
+    "eventName": "Digital Dreamers Den (D3) Meetup #4",
+    "eventDescription": "Digital Dreamers Den (D3) is a vibrant tech community that brings together AI Full-Stack Developers to build the future. We host events, workshops, and networking opportunities that connect talented engineers with cutting-edge technology and industry leaders.",
     "eventDate": "2025-09-20",
     "eventTime": "09:30",
-    "eventVenue": "YuniQ, Ticel Bio Park - Phase 2, Taramani",
-    "eventLink": "https://d3community.in",
+    "eventVenue": "YuniQ, 4th Floor, TICEL BIOPARK, 5, CSIR Rd, Phase II, Tharamani, Chennai, Tamil Nadu 600113",
+    "eventLink": "https://lu.ma/1m0tz3b8",
     "location": "Chennai",
-    "communityName": "D3 Community",
+    "communityName": "Digital Dreamers Den (D3)",
     "communityLogo": "https://i.ibb.co/BKQb8hLG/D3-Community-Official-logo.png"
-  },
-  {
-    "eventName": "Namma Flutter x FOSS United Madurai Meetup",
-    "eventDescription": "Madurai porom gaichs, Vaanga polaam gaichs, FOSS United Madurai X NammaFlutter collab panrom gaichs, ​Madurai ah nambi varom gaichs, Vandhudunga :)",
-    "eventDate": "2025-08-23",
-    "eventTime": "09:00",
-    "eventVenue": "Dot Com Infoway, I Floor, Vaigai Colony, Plot No. 3, 80 Feet Rd, opp. to Ambika Theatre, Anna Nagar, Madurai, Tamil Nadu 625020",
-    "eventLink": "https://fli.so/nammamadurai",
-    "location": "Madurai",
-    "communityName": "Namma Flutter",
-    "communityLogo": "https://avatars.githubusercontent.com/u/176333249"
-  },
-  {
-    "eventName": "August FOSS Meetup",
-    "eventDescription": "FOSS Meetup - August 2025.",
-    "eventDate": "2025-08-23",
-    "eventTime": "10:00",
-    "eventVenue": "Thoughtworks, International Tech Park, Zenith - 9th Floor, Ascendas, Taramani Link Rd, Tharamani, Chennai, Tamil Nadu 600113 ",
-    "eventLink": "https://fossunited.org/c/chennai/2025/august",
-    "location": "Chennai",
-    "communityName": "FOSS United Chennai",
-    "communityLogo": "https://fossunited.org/files/Foss%20United%20Logo%20Black.svg"
   },
   {
     "eventName": "Chennai DevOps Meetup",
@@ -87,5 +54,27 @@
     "communityName": "TechXConf",
     "communityLogo": "https://i.ibb.co/FkPD9QdN/techconf-logo.png",
     "paid": true
+  },
+  {
+    "eventName": "JSLovers Chennai 1st Anniversary Meetup",
+    "eventDescription": "JSLovers Chennai is celebrating its first anniversary meetup event to celebrate JavaScript, tech and communities",
+    "eventDate": "2025-09-13",
+    "eventTime": "14:00",
+    "eventVenue": "Freshworks, Vijay Shanthi Block-B, GLOBAL INFOCITY PARK, Perungudi, Chennai - 600096",
+    "eventLink": "https://lu.ma/b2wrnk0t",
+    "location": "Chennai",
+    "communityName": "JSLovers Chennai",
+    "communityLogo": "https://i.ibb.co/89fw9p0/1718639979394.jpg"
+  },
+  {
+    "eventName": "Codesapiens - September meetup",
+    "eventDescription": "September meetup - Hangout with hustlers",
+    "eventDate": "2025-09-13",
+    "eventTime": "10:00",
+    "eventVenue": "Contentstack India Pvt. Ltd., 5th Floor, WorkEZ, Helix.21, Guru Nanak College Rd, above West side, Indira Gandhi Nagar, Velachery, Chennai, Tamil Nadu 600042",
+    "eventLink": "https://lu.ma/46fd0fsh",
+    "location": "Chennai",
+    "communityName": "Codesapiens",
+    "communityLogo": "https://i.ibb.co/bgwW96Mh/logo.png"
   }
 ]
