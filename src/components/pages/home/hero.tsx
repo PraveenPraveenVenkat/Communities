@@ -3,7 +3,7 @@
 import Image from 'next/image';
 import { motion } from 'framer-motion';
 import React from 'react';
-import RocketUpdated from '../../../../public/RocketUpdated.webp';
+import RocketUpdated from '../../../../public/rocket.webp';
 
 const Hero = () => {
   return (
@@ -25,19 +25,21 @@ const Hero = () => {
               miss
             </motion.span>
             {` your`} <br />
-            next community
-            <br />
-            <motion.span
-              className='italic text-[#03b051]'
-              initial={{ opacity: 0, scale: 0.8 }}
-              animate={{ opacity: 1, scale: 1 }}
-              transition={{ duration: 1, ease: 'easeOut', delay: 0.5 }}
-            >
-              meetup
-            </motion.span>
+            <span className='inline-block'>
+              next community
+              <br />
+              <motion.span
+                className='block text-left italic text-[#03b051]'
+                initial={{ opacity: 0, scale: 0.8 }}
+                animate={{ opacity: 1, scale: 1 }}
+              >
+                meetup
+              </motion.span>
+            </span>
           </h1>
           <motion.p
-            className='mt-4 text-[20px] text-gray-600'
+            className='mt-4 block text-left text-[20px] text-gray-600'
+            // className='mt-4 text-[20px] text-gray-600 sm:ml-[20px]'
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 1, ease: 'easeOut', delay: 0.7 }}
@@ -47,17 +49,18 @@ const Hero = () => {
         </motion.div>
         <motion.div
           className='z-10'
-          initial={{ opacity: 0, x: 50 }}
+          initial={{ opacity: 0.1, x: 50 }} // ( why ) - this is for LCP making, 0 to 0.1 will treat the image as painted and won't go under repainting
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 1, ease: 'easeOut' }}
         >
           <Image
             src={RocketUpdated}
             alt='Rocket illustration'
-            width={288}
-            height={365}
-            loading='eager'
-            fetchPriority='high'
+            width={600}
+            height={760}
+            sizes='(max-width: 768px) calc(100vw - 2rem), 50vw'
+            className='h-[365px] w-auto'
+            priority
           />
         </motion.div>
       </div>
