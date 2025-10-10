@@ -191,6 +191,7 @@ const Community = () => {
               type='text'
               placeholder='Search communities by name or location...'
               className='w-full rounded-lg border border-gray-200 py-2 pl-10 pr-4 focus:border-green-500 focus:outline-none'
+              aria-label='Search communities'
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
             />

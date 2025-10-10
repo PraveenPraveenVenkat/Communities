@@ -38,6 +38,7 @@ export default function Header() {
           href='/rss'
           className='inline-flex items-center rounded-lg px-4 py-2 text-sm text-black shadow transition duration-200 hover:text-gray-700'
           target='_blank'
+          aria-label='Subscribe to RSS feed (opens in a new tab)'
         >
           <RssSimple size={20} />
         </Link>
