@@ -3,6 +3,30 @@
 
 [
   {
+    "eventName": "CII CONNECT 2025",
+    "eventDescription": "Conference on Information and Communication Technology (ICT) - Tamil Nadu",
+    "eventDate": "2025-10-16",
+    "eventTime": "09:00",
+    "eventVenue": "Hotel Le Royal Méridien, Coimbatore",
+    "eventLink": "https://cam.mycii.in/ORNew/Registration.html?EventId=E000072076",
+    "location": "Coimbatore",
+    "communityName": "CII",
+    "communityLogo": "https://i.ibb.co/9mfqytsm/image001.png"
+  },
+
+  {
+    "eventName": "Java Birthday Bash!",
+    "eventDescription": "Bring your energy, your ideas, and your best coding jokes — because this ain’t just an event, it’s a JVM party!",
+    "eventDate": "2025-10-25",
+    "eventTime": "09:00",
+    "eventVenue": "Entrans Technologies Private Limited",
+    "eventLink": "https://luma.com/2yx4uevo",
+    "location": "Chennai",
+    "communityName": "Code On JVM",
+    "communityLogo": "https://i.ibb.co/5xSndqPW/Code-On-Chennai-JVM.png"
+  },
+
+  {
     "eventName": "DevFest 2025 Chennai",
     "eventDescription": "DevFest is one of the largest and most inclusive community-led technology conferences worldwide! Every year, Google Developer Groups host DevFests, where attendees explore developer tools, learn from Google Developer Experts, and connect with other tech enthusiasts from their local community.",
     "eventDate": "2025-11-08",
