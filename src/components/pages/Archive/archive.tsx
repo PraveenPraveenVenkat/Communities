@@ -216,7 +216,13 @@ const Archive = () => {
             )}
           </div>
 
-          <a href={link} target='_blank' rel='noopener noreferrer' className='block'>
+          <a
+            href={link}
+            target='_blank'
+            rel='noopener noreferrer'
+            className='block'
+            aria-label={`View details for ${title} event`}
+          >
             <h3
               className={`mb-2 mt-3 text-xl font-medium text-black transition-all duration-300`}
               style={{

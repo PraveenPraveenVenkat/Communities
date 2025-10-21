@@ -1,5 +1,43 @@
 [
   {
+
+    "eventName": "CII CONNECT 2025",
+    "eventDescription": "Conference on Information and Communication Technology (ICT) - Tamil Nadu",
+    "eventDate": "2025-10-16",
+    "eventTime": "09:00",
+    "eventVenue": "Hotel Le Royal Méridien, Coimbatore",
+    "eventLink": "https://cam.mycii.in/ORNew/Registration.html?EventId=E000072076",
+    "location": "Coimbatore",
+    "communityName": "CII",
+    "communityLogo": "https://i.ibb.co/9mfqytsm/image001.png"
+  },
+
+  {
+    "eventName": "Java Birthday Bash!",
+    "eventDescription": "Bring your energy, your ideas, and your best coding jokes — because this ain’t just an event, it’s a JVM party!",
+    "eventDate": "2025-10-25",
+    "eventTime": "09:00",
+    "eventVenue": "Entrans Technologies Private Limited",
+    "eventLink": "https://luma.com/2yx4uevo",
+    "location": "Chennai",
+    "communityName": "Code On JVM",
+    "communityLogo": "https://i.ibb.co/5xSndqPW/Code-On-Chennai-JVM.png"
+  },
+
+  {
+    "eventName": "DevFest 2025 Chennai",
+    "eventDescription": "DevFest is one of the largest and most inclusive community-led technology conferences worldwide! Every year, Google Developer Groups host DevFests, where attendees explore developer tools, learn from Google Developer Experts, and connect with other tech enthusiasts from their local community.",
+    "eventDate": "2025-11-08",
+    "eventTime": "09:00",
+    "eventVenue": "IIT Madras Research Park, MGR Film City Road, Chennai, 600113",
+    "eventLink": "https://gdg.community.dev/events/details/google-gdg-chennai-presents-devfest-2025-chennai",
+    "location": "Chennai",
+    "communityName": "Google Developer Group Chennai",
+    "communityLogo": "https://i.ibb.co/ynkrJnD4/gdglogo-0229df09.png",
+    "paid": true
+  },
+  {
+
     "eventName": "FOSS Meetup | September 2025",
     "eventDescription": "FOSS Meetup - September 2025.",
     "eventDate": "2025-09-27",
@@ -22,39 +60,6 @@
     "communityLogo": "https://ctotalk.in/hubfs/cto-talk-logo.svg"
   },
   {
-    "eventName": "Digital Dreamers Den (D3) Meetup #4",
-    "eventDescription": "Digital Dreamers Den (D3) is a vibrant tech community that brings together AI Full-Stack Developers to build the future. We host events, workshops, and networking opportunities that connect talented engineers with cutting-edge technology and industry leaders.",
-    "eventDate": "2025-09-20",
-    "eventTime": "09:30",
-    "eventVenue": "YuniQ, 4th Floor, TICEL BIOPARK, 5, CSIR Rd, Phase II, Tharamani, Chennai, Tamil Nadu 600113",
-    "eventLink": "https://lu.ma/1m0tz3b8",
-    "location": "Chennai",
-    "communityName": "Digital Dreamers Den (D3)",
-    "communityLogo": "https://i.ibb.co/BKQb8hLG/D3-Community-Official-logo.png"
-  },
-  {
-    "eventName": "Chennai DevOps Meetup",
-    "eventDescription": "Chennai DevOps Meetup is back again with the next meet up !!! . This is a free meet up for all the DevOps enthusiasts out there. We will be having some amazing speakers from the industry who will be sharing their knowledge and experience with us. Don't miss this opportunity to learn and network with like-minded individuals.",
-    "eventDate": "2025-09-06",
-    "eventTime": "10.30",
-    "eventVenue": "IBM India Private Limited, 5th Floor,Unit 3,Pinnacle Building, Ascendas IT Park, CSIR Road, Taramani, Chennai- 600113",
-    "eventLink": "https://www.meetup.com/chennaidevops/events/310557996/",
-    "location": "Chennai",
-    "communityName": "Chennai DevOps for Continuous Delivery and Beyond",
-    "communityLogo": "https://i.ibb.co/Y4wkwRW9/Devops.jpg"
-  },
-  {
-    "eventName": "From Dev to Ops - Devops Community Sep 25 Meetup",
-    "eventDescription": "From Dev to Ops is a community of devops practitioners who share raw, behind-the-scenes war room experiences — the outages, the quick fixes, the lessons learned, and the systems that broke in a fun, honest, and simple way.",
-    "eventDate": "2025-09-13",
-    "eventTime": "09:00",
-    "eventVenue": "Go Perfecter AI Private Limited, Temple Steps, 6th Floor B Block, 181-187 Anna Salai, Little Mount, Saidapet, Chennai - 600015 ",
-    "eventLink": "https://lu.ma/7ecrqx68",
-    "location": "Chennai",
-    "communityName": "From Dev to Ops",
-    "communityLogo": "https://i.ibb.co/KZTKzgt/from-dev-to-ops-logo-900-x-900-px.png"
-  },
-  {
     "eventName": "TechXConf 2025 — AI & Cloud Conference",
     "eventDescription": "TechXConf is a global phenomenon that unites visionary speakers, pioneering technologies, and a vibrant community of tech enthusiasts. Our mission is to explore, educate, and envision the future of technology through two dynamic domains:Generative AI and Cloud Computing.",
     "eventDate": "2025-11-01",
@@ -67,28 +72,6 @@
     "paid": true
   },
   {
-    "eventName": "JSLovers Chennai 1st Anniversary Meetup",
-    "eventDescription": "JSLovers Chennai is celebrating its first anniversary meetup event to celebrate JavaScript, tech and communities",
-    "eventDate": "2025-09-13",
-    "eventTime": "14:00",
-    "eventVenue": "Freshworks, Vijay Shanthi Block-B, GLOBAL INFOCITY PARK, Perungudi, Chennai - 600096",
-    "eventLink": "https://lu.ma/b2wrnk0t",
-    "location": "Chennai",
-    "communityName": "JSLovers Chennai",
-    "communityLogo": "https://i.ibb.co/89fw9p0/1718639979394.jpg"
-  },
-  {
-    "eventName": "Codesapiens - September meetup",
-    "eventDescription": "September meetup - Hangout with hustlers",
-    "eventDate": "2025-09-13",
-    "eventTime": "10:00",
-    "eventVenue": "Contentstack India Pvt. Ltd., 5th Floor, WorkEZ, Helix.21, Guru Nanak College Rd, above West side, Indira Gandhi Nagar, Velachery, Chennai, Tamil Nadu 600042",
-    "eventLink": "https://lu.ma/46fd0fsh",
-    "location": "Chennai",
-    "communityName": "Codesapiens",
-    "communityLogo": "https://i.ibb.co/bgwW96Mh/logo.png"
-  },
-  {
     "eventName": "React India x Chennai React Meetup",
     "eventDescription": "Chennai React is a community of React developers in Chennai. We meet every month to discuss the latest in React, share knowledge, and build connections.",
     "eventDate": "2025-09-27",
@@ -98,5 +81,60 @@
     "location": "Chennai",
     "communityName": "Chennai React",
     "communityLogo": "https://avatars.githubusercontent.com/u/175532518"
+  },
+  {
+    "eventName": "FOSS United Chennai x NammaFlutter September Meetup",
+    "eventDescription": "FOSS United Chennai x NammaFlutter collab event. We have workshops on opensource contributions this month.",
+    "eventDate": "2025-09-27",
+    "eventTime": "9:30",
+    "eventVenue": "YuniQ, Tharamani",
+    "eventLink": "https://fossunited.org/c/chennai/2025/september",
+    "location": "Chennai",
+    "communityName": "FOSS United Chennai",
+    "communityLogo": "https://fossunited.org/files/Foss%20United%20Logo%20Black.svg"
+  },
+  {
+    "eventName": "Digital Dreamers Den (D3) Meetup #5",
+    "eventDescription": "Digital Dreamers Den (D3) is a vibrant tech community that brings together AI Full-Stack Developers to build the future. We host events, workshops, and networking opportunities that connect talented engineers with cutting-edge technology and industry leaders.",
+    "eventDate": "2025-11-22",
+    "eventTime": "09:30",
+    "eventVenue": "YuniQ, 4th Floor, TICEL BIOPARK, 5, CSIR Rd, Phase II, Tharamani, Chennai, Tamil Nadu 600113",
+    "eventLink": "https://d3community.in/meetup-5",
+    "location": "Chennai",
+    "communityName": "Digital Dreamers Den (D3)",
+    "communityLogo": "https://i.ibb.co/BKQb8hLG/D3-Community-Official-logo.png"
+  },
+  {
+    "eventName": "AI Geeks Meetup",
+    "eventDescription": "AI Geeks Meetup - October 2025.",
+    "eventDate": "2025-10-11",
+    "eventTime": "09:30 AM",
+    "eventVenue": "IBM India Private Limited, 5th Floor,Unit 3,Pinnacle Building, Ascendas IT Park, CSIR Road, Taramani, Chennai- 600113",
+    "eventLink": " https://luma.com/utimfusc",
+    "location": "Chennai",
+    "communityName": "AI Geeks Chennai",
+    "communityLogo": "https://i.ibb.co/cK9Jt568/ai-geeks-chennai-logo.jpg"
+  },
+  {
+    "eventName": "SREday Chennai",
+    "eventDescription": "SREday Chennai 2025 Q4",
+    "eventDate": "2025-10-11",
+    "eventTime": "09:00 AM",
+    "eventVenue": "HCL Tech, Medavakkam High Road, Elcot Sez, Sholinganallur, Chennai, Tamil Nadu 600119",
+    "eventLink": " https://sreday.com/2025-chennai-q4/",
+    "location": "Chennai",
+    "communityName": "SREday",
+    "communityLogo": "https://i.ibb.co/LzY80x1R/sreday-logo.jpg"
+  },
+  {
+    "eventName": "Codesapiens October Meetup #6",
+    "eventDescription": "October Meetup #6 - The CodeFiesta is happening on 11th October at Mako IT Lab. Join us for a meetup with fun and fight",
+    "eventDate": "2025-10-11",
+    "eventTime": "09:00",
+    "eventVenue": "Mako IT Lab - Indian Delivery Center - 8th Floor, TICEL BIOPARK, TICEL Biopark Rd, Phase II, Tharamani, Chennai, Tamil Nadu 600113, India",
+    "eventLink": "https://luma.com/pidwsfcx",
+    "location": "Chennai",
+    "communityName": "Codesapiens",
+    "communityLogo": "https://i.ibb.co/bgwW96Mh/logo.png"
   }
 ]
